@@ -6,9 +6,9 @@ const weeks = [
   16,
   18,
   20,
-  27,
-  44,
-  45,
+  21,
+  22,
+  24,
 ]
 
 export default weeks
