@@ -1,3 +1,3 @@
-import { calculateSchedule } from './calculate.js';
+import { calculateSchedule } from './calculate.js'
 
 calculateSchedule()
