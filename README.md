@@ -1,4 +1,4 @@
-# dream-league-cup-fixtures
+# Dream League Cup Fixtures
 Generate cup fixtures
 
 ## Prerequisites
