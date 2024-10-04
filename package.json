@@ -1,0 +1,12 @@
+{
+  "name": "dream-league-cup-fixtures",
+  "version": "1.0.0",
+  "description": "Generate cup fixtures",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
