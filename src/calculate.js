@@ -3,7 +3,7 @@ import weeks from './weeks.js'
 
 const BYE = 'Bye'
 
-function calculateSchedule () {
+function calculateFixtures () {
   for (const group of groups) {
     console.log(`${group.name} fixtures:`)
     let totalManagers = group.managers.length
@@ -75,4 +75,4 @@ function getFixtureString (fixture) {
   return `Week ${fixture.weekNumber}: ${fixture.home} vs ${fixture.away}`
 }
 
-export { calculateSchedule }
+export { calculateFixtures }

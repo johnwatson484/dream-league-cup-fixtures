@@ -1,3 +1,3 @@
-import { calculateSchedule } from './calculate.js'
+import { calculateFixtures } from './calculate.js'
 
-calculateSchedule()
+calculateFixtures()
