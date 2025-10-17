@@ -1,25 +1,32 @@
 const groupA = {
   name: 'Group A',
   managers: [
-    'Billy',
-    'Lee',
-    'Darren',
-    'Scott/Ben',
     'John',
+    'Scott/Ben',
+    'Tucker/Karl',
+    'Darren'
   ]
 }
 
 const groupB = {
   name: 'Group B',
   managers: [
-    'Rob',
-    'Bob',
-    'Michael',
     'Dave',
-    'Tucker/Karl',
+    'Michael',
+    'Dan',
+    'Jordan',
   ]
 }
 
-const groups = [groupA, groupB]
+const groupC = {
+  name: 'Group C',
+  managers: [
+    'Bob',
+    'Lee',
+    'Rob'
+  ]
+}
+
+const groups = [groupA, groupB, groupC]
 
 export default groups
